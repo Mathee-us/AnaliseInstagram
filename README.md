@@ -30,12 +30,15 @@ Estas informações nos permitirão realizar uma análise detalhada sobre como d
 
 ## Conclusões
 
--   **Ter o rosto de outras pessoas é fundamental para um bom engajamento na publicação**
+-   *Ter o rosto de outras pessoas é fundamental para um bom engajamento na publicação*
     -   Em todas as tags, quando havia o rosto, o resultado foi muito melhor.
--   **Criar campanhas ajuda muito na divulgação da marca**
--   **Promoções tiveram um desempenho absurdamente maior que qualquer outra tag**
+-   *Criar campanhas ajuda muito na divulgação da marca*
+-   *Promoções tiveram um desempenho absurdamente maior que qualquer outra tag*
     -   Porém, é uma tag que pode ter custo para a loja, o que deve ser analisado.
--   **Usar conteúdos que estão em trend também ajudam na divulgação da marca, mesmo a trend sendo de outros nichos**
--   **A melhor maneira de mostrar produtos é através de outras pessoas utilizando-os, e se possível em campanhas de datas especiais**
--   **Para novos produtos, a inclusão de pessoas é mais crítica ainda, sendo quase o dobro quando há um rosto junto ao produto**
--   **Não é possível afirmar que a tag `Loja` é ruim até testar essa tag incluindo pessoas ou em uma campanha. Vale o teste para verificar**
+-   *Usar conteúdos que estão em trend também ajudam na divulgação da marca, mesmo a trend sendo de outros nichos*
+-   *A melhor maneira de mostrar produtos é através de outras pessoas utilizando-os, e se possível em campanhas de datas especiais*
+-   *Para novos produtos, a inclusão de pessoas é mais crítica ainda, sendo quase o dobro quando há um rosto junto ao produto*
+-   *Não é possível afirmar que a tag `Loja` é ruim até testar essa tag incluindo pessoas ou em uma campanha. Vale o teste para verificar*
+
+
+**Lembrete**: O código foi realizado na versão 3.11.7 do python
